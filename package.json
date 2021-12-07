@@ -1,0 +1,9 @@
+{
+  "name": "marger",
+  "version": "1.0.0",
+  "description": "Simple, minimalistic and easy-to-use Object Mixer",
+  "main": "library.js",
+  "keywords": ["merge", "object", "mixin", "mixer"],
+  "author": "ShapeX",
+  "license": "MIT"
+}
